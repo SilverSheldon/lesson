@@ -7,5 +7,4 @@ def say_bye(name):
 
 
 if __name__ == '__main__':
-    print_hi('PyCharm')
-    say_bye('PyCharm')
+    print_hi('Everybody')
